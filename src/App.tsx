@@ -4,7 +4,7 @@ import avatar from './assets/avatar.jpg'
 import medcaConnectImage from './assets/MedcaConnect.png'
 import softCondoImage from './assets/SoftCondo.png'
 import careConnectImage from './assets/CareConnect.png'
-
+//
 function App() {
   const [currentProjectSlide, setCurrentProjectSlide] = useState(0)
   
