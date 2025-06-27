@@ -84,7 +84,7 @@ function App() {
           </div>
           <div className="avatar">
             <img src={avatar} alt="Avatar" />
-            <a href="/Despina_Maria_Koulisakis_Resume.pdf" target="_blank" rel="noopener noreferrer" className="resume-link">Check out my resume!</a>
+            <a href="/Despina_Maria_Koulisakis.docx.pdf" target="_blank" rel="noopener noreferrer" className="resume-link">Check out my resume!</a>
           </div>
         </div>
         
